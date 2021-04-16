@@ -35,7 +35,7 @@ You simply import the stores that you need.
 To start the Nimiq Client, call the exported `start` function:
 
 ```js
-import { start } from 'nimiq-svelte-stores`
+import { start } from 'nimiq-svelte-stores'
 
 start()
 ```
